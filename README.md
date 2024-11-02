@@ -6,14 +6,7 @@ I’m Mohammad Ahmad, a Software Engineer with a strong interest in the intricac
 
 <hr/>
 ## &#x1f4c8; GitHub Stats
-
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohammadah2002&show_icons=true&locale=en&layout=compact" alt="mohammadah2002" /></p>
-
-<p><a href="https://github.com/mohammadah2002/mohammadah2002">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mohammadah2002&show_icons=true alt="mohammad Ahmad GitHub Stats" />
-</a>
-</p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mohammadah2002&" alt="mohammadah2002" /></p>
 
 ### Visitor count
