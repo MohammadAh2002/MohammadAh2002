@@ -10,7 +10,7 @@ I’m Mohammad Ahmad, a Software Engineer with a strong interest in the intricac
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohammadah2002&show_icons=true&locale=en&layout=compact" alt="mohammadah2002" /></p>
 
 <p><a href="https://github.com/mohammadah2002/mohammadah2002">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mohammadah2002&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="mohammad Ahmad GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mohammadah2002&show_icons=true alt="mohammad Ahmad GitHub Stats" />
 </a>
 </p>
 
