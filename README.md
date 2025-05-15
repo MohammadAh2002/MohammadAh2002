@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohammad Ahmad</h1>
-<h3 align="center">I’m Mohammad Ahmad, a Software Engineer with a strong interest in the intricacies of server-side development. I'm passionate about sharing knowledge and contributing to the tech community through content creation. <br> I am Interested in Back-End and Server-Side Development, Mobile and Web Development, in addition to my technical work and Learning, I enjoy writing articles on programming, technology, and software development,</h3>
+<h3 align="center">I'm Mohammad Ahmad, a Software Engineer with a strong passion for server-side development and the complexities of backend architecture. I’m particularly interested in building scalable, high-performance systems for both web and mobile platforms. Beyond my professional work, I actively contribute to the tech community through open-source projects. I enjoy collaborating with developers around the world, sharing knowledge, and helping to build tools that benefit others in the software development ecosystem.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohammadah2002&label=Profile%20views&color=0e75b6&style=flat" alt="mohammadah2002" /> </p>
 
