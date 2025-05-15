@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **Open Source Projects**
 
-- 📝 I regularly write articles on [Technology and Things I Like](Technology and Things I Like)
+- 📝 I regularly write articles on Technology and Things I Like
 
 - 📫 How to reach me **mohammadahmadwork@gmail.com**
 
