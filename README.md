@@ -9,11 +9,11 @@
 
 - 👯 I’m looking to collaborate on **backend systems, scalable applications, and open-source projects**
 
-- 📝 I regularly write articles on [https://www.linkedin.com/in/mohammadah2002/recent-activity/articles/](https://www.linkedin.com/in/mohammadah2002/recent-activity/articles/)
+- 📝 I regularly write articles on [LinkedIn Articles](https://www.linkedin.com/in/mohammadah2002/recent-activity/articles/)
 
-- 📫 How to reach me **Lexmohammad2002@gmail.com**
+- 📫 How to reach me: **Lexmohammad2002@gmail.com**
 
-- 📄 Know about my experiences [https://mohammadah2002.github.io/My-Website/](https://mohammadah2002.github.io/My-Website/)
+- 📄 Know more about my experience: [Portfolio](https://mohammadah2002.github.io/My-Website/)
 
 <h3 align="left">Connect with me:</h3>
 
@@ -29,7 +29,7 @@
     alt="Medium" height="40" width="40"/>
   </a>
 
-  <a href="mailto:mohammadahmadwork@gmail.com">
+  <a href="mailto:Lexmohammad2002@gmail.com">
     <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" 
     alt="Email" height="40" width="40"/>
   </a>
