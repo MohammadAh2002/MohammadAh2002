@@ -30,33 +30,23 @@ Software Engineer specializing in backend, web, and mobile development, DevOps p
 
 ---
 
-## 🤝 Connect with me:
-
+### 🤝 Connect with me:
 <p align="left">
   <a href="https://linkedin.com/in/mohammadah2002">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="40"/>
   </a>
-
-  &nbsp;&nbsp;
-
   <a href="https://medium.com/@mohammadah2002">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" height="40"/>
   </a>
-
-  &nbsp;&nbsp;
-
   <a href="mailto:Lexmohammad2002@gmail.com">
     <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" height="40"/>
   </a>
 </p>
-
 ---
 
-## 🧠 Languages and Tools:
+### 🧠 Languages and Tools:
 
 <p align="left">
-
-<!-- Core Backend -->
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" width="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40"/>
