@@ -42,6 +42,7 @@ Software Engineer specializing in backend, web, and mobile development, DevOps p
     <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" height="40"/>
   </a>
 </p>
+
 ---
 
 ### 🧠 Languages and Tools:
@@ -75,6 +76,8 @@ Software Engineer specializing in backend, web, and mobile development, DevOps p
 <img src="https://cdn.worldvectorlogo.com/logos/postman.svg" width="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40"/>
 </p>
+
+---
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohammadah2002&show_icons=true&locale=en&layout=compact" alt="mohammadah2002" /></p>
 
