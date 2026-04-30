@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohammadah2002" alt="mohammadah2002" /></a> </p>
 
-- 🌱 I’m currently learning **Mobile and Web Development**
+- 🌱 I’m currently learning **Mobile, Web Development, Back-End, DevOps, and Cloud**
 
 - 👯 I’m looking to collaborate on **Open Source Projects**
 
-- 📝 I regularly write articles on Technology and Things I Like
+- 📝 I regularly Share Content nad write articles on Technology and Things I Like
 
 - 📫 How to reach me **mohammadahmadwork@gmail.com**
 
