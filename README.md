@@ -20,13 +20,11 @@ Software Engineer specializing in backend, web, and mobile development, DevOps p
 
 - 👯 I’m looking to collaborate on **backend systems, scalable applications, and open-source projects**
 
-- 📝 I regularly write articles on  
-[LinkedIn Articles](https://www.linkedin.com/in/mohammadah2002/recent-activity/articles/)
+- 📝 I regularly write articles on [LinkedIn Articles](https://www.linkedin.com/in/mohammadah2002/recent-activity/articles/)
 
 - 📫 How to reach me: **Lexmohammad2002@gmail.com**
 
-- 📄 Know more about my experience:  
-[Portfolio](https://mohammadah2002.github.io/My-Website/)
+- 📄 Know more about my experience: [Portfolio](https://mohammadah2002.github.io/My-Website/)
 
 ---
 
