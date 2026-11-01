@@ -35,7 +35,7 @@ I enjoy understanding how software works under the hood, from application archit
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,dotnet,java,cpp,python,rust,js,react,html,css,tailwind,flutter,dart,kotlin,swift,mysql,mssql,mongodb,sqlite,firebase,aws,docker,kubernetes,bash,git,github,postman,linux" alt="Languages and Technologies"/>
+      <img src="https://skillicons.dev/icons?i=cs,dotnet,java,cpp,python,rust,go,js,react,html,css,tailwind,flutter,dart,kotlin,swift,mysql,mssql,mongodb,sqlite,firebase,azure,gcp,docker,kubernetes,bash,git,github,postman,linux" alt="Languages and Technologies"/>
   </a>
 </p>
 
