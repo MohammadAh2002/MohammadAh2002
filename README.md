@@ -57,11 +57,11 @@ I enjoy understanding how software works under the hood, from application archit
 ### 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=mohammadah2002&show_icons=true&locale=en" alt="GitHub Stats"/>
+  <img src="https://github-stats-extended.vercel.app/api?username=mohammadah2002&show_icons=true&locale=en" alt="GitHub Stats"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mohammadah2002&layout=compact&locale=en" alt="Top Languages"/>
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=mohammadah2002&layout=compact&locale=en" alt="Top Languages"/>
 </p>
 
 <p align="center">
